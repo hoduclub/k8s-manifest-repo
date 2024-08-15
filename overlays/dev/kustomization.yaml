@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 533616270150.dkr.ecr.ap-northeast-2.amazonaws.com/react-frontend
   newName: 533616270150.dkr.ecr.ap-northeast-2.amazonaws.com/react-frontend
-  newTag: fb955455
+  newTag: 78962d32
 resources:
 - ../../base
 patchesStrategicMerge:
